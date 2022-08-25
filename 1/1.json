@@ -9,8 +9,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/bili.json"
-        }, 
+            "ext": "https://weavann.github.io/1/j/bzq.json"
+		}, 
 		{
             "key": "csp_xpath_网络搜集库qiumi",
             "name": "球迷看球(XPF)️️️",
@@ -808,6 +808,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;8d7baf86d0b3d25cb648bc605c1f3191"
+       "spider":"https://weavann.github.io/1/B1.jar"
     
 }
