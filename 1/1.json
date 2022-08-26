@@ -9,7 +9,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://weavann.github.io/1/j/bzq.json"
+            //"ext": "https://weavann.github.io/1/j/bzq.json"
+			"ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"
 		}, 
 		{
             "key": "csp_xpath_网络搜集库qiumi",
