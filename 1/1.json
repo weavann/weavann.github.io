@@ -32,6 +32,24 @@
 			"filterable": 0,
 			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
 		},
+		/*{
+            "key": "T4",
+            "name": "(T4)",
+            "type": 4,
+            "api": "https://t4.catvod.eu.org/catvod/gaze",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },*/
+		{
+			"key": "T4",
+			"name": "T4爬虫",
+			"type": 4,
+			"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3a49cf29cf20410997247c6eb4509be9",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		{
             "key": "csp_77",
             "name": "七七(爬虫)",
@@ -109,15 +127,6 @@
             "name": "快看(爬虫)",
             "type": 3,
             "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "T4",
-            "name": "(T4)",
-            "type": 4,
-            "api": "https://t4.catvod.eu.org/catvod/gaze",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
