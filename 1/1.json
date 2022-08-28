@@ -32,7 +32,7 @@
 		"filterable": 0,
 		"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
 	},
-	/*{
+	{
             "key": "T4test",
             "name": "T4测试",
             "type": 4,
@@ -40,7 +40,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },*/
+        },
 	{
 		"key": "T4spider",
 		"name": "T4爬虫",
