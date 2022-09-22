@@ -12,6 +12,16 @@
             "ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"
 		}, 
 		{
+			"key":"csp_XYQBiu_17kan",
+			"name":"⚽17kan",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"
+		},
+		{
             "key": "csp_xpath_网络搜集库qiumi",
             "name": "球迷看球(XPF)️️️",
             "type": 3,
@@ -21,7 +31,7 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/6/qm.json"
         },
-		{
+		/*{
 			"key": "csp_xpath_88kanqiu",
 			"name": "⚽88看球(XP)",
 			"type": 3,
@@ -30,7 +40,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
-		},
+		},*/
 		/*{
             "key": "T4test",
             "name": "T4测试",
