@@ -41,7 +41,7 @@
 			"filterable":0,
 			"ext":"http://神器每日推送.tk/XYQxb/310直播.json"
 		},
-		/*{
+		{
 			"key": "csp_xpath_88kanqiu",
 			"name": "⚽88看球(XP)",
 			"type": 3,
@@ -50,7 +50,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
-		},*/
+		},
 		{
 			"key": "T4spider",
 			"name": "T4爬虫",
@@ -903,6 +903,7 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
+       //"spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
+	   "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0923.jar;md5;42F7C7819094585B83F5D47EED35053D"
     
 }
