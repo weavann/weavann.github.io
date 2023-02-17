@@ -210,8 +210,6 @@ CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3
 重庆卫视,http://39.135.138.60:18890/TVOD/88888910/224/3221225734/index.m3u8
 重庆卫视,http://182.151.211.171:808/hls/63/index.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
-重庆卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
 安徽卫视,http://111.59.189.40:8445/tsfile/live/0130_1.m3u8
@@ -339,8 +337,6 @@ NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 华数,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-东森新闻,https://epg.pm/stream/3dc3d3023da9f9039fafba12b35f576c5168e47079711af0dbdb9c706d180f46.ctv
 澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

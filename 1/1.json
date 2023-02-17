@@ -142,7 +142,7 @@
 			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
-		{
+		/*{
 			"key": "非凡",
 			"name": "非凡",
 			"type": 1,
@@ -166,8 +166,8 @@
 				"日韩剧",
 				"欧美剧",	
 				]
-		},
-		{
+		},*/
+		/*{
 			"key": "量子",
 			"name": "量子",
 			"type": 1,
@@ -175,7 +175,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-		},
+		},*/
 		{
             "key":"日漫",
             "name": "日漫(爬虫)",
