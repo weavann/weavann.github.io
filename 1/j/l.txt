@@ -339,15 +339,41 @@ NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 华数,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
+5民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2
+6民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3
+9大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=4&ch=209
+10中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4
+12華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6
+13三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169
+14客家電視台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107
+21新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=4&ch=223
+23ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=4&ch=189
+25原住民族電視台,https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273
+30LiveABC互動英語頻道,https://www.4gtv.tv/channel/4gtv-live030?set=4&ch=188
+32ELTV生活英語台,https://www.4gtv.tv/channel/litv-longturn20?set=4&ch=106
+42MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231
+50鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=4&ch=268
+51東森新聞台,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
+52華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=4&ch=34
+53民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31
+54三立財經新聞iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=4&ch=229
+55TVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
+56東森財經新聞台,https://www.4gtv.tv/channel/4gtv-live019?set=4&ch=211
+57中視新聞,https://www.4gtv.tv/channel/4gtv-4gtv074?set=4&ch=33
+58中天新聞台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=4&ch=30
+62SBN全球財經台,https://www.4gtv.tv/channel/4gtv-live060?set=4&ch=224
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+东森新闻,https://epg.pm/stream/3dc3d3023da9f9039fafba12b35f576c5168e47079711af0dbdb9c706d180f46.ctv
 澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 海外,#genre#
 AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-BBC World News,https://epg.pw/stream/d1e030b99571aae8a2f6fffd102e14798135881632e6c7b3d89bc887b9f725ec.ctv
-BBC World News Asia,https://epg.pw/stream/5a4e502da4afa1e1e15985bd7d15736138f7114ebacae362dd891ff0a8356055.ctv
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+bbc world news english[720x576][20230217],https://epg.pw/stream/8f8b8dfc734c0a4af0fd96b663ca260a0414fe7f27ff4a472d0e6f8beaf35493.ctv
+bbc world news HD[1920x1080][20230217],https://epg.pw/stream/fcf4bbcc7f83ae137bf4bcdf957781b6ee88b2d7fea38628da8a6a8d87ef3dda.ctv
 CBSNews,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBSNewsBaltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 CBSNewsDFW,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
@@ -356,9 +382,6 @@ CheddarNews,https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-cnbc hd,https://epg.pw/stream/98d1a87a84f6b3f4f43a2c8b0f43774dd5bb49fb9e742da386d5a140120005d0.ctv
-cnn usa,https://epg.pw/stream/f6ffc96fcde16947b065cdae290da7f87a55a0f0fda9cb87f7a5673557d2f2d8.ctv
-fox news@@5,https://epg.pw/stream/f813255d8d56af710c89ac109b435463714b4163ce577c86ecfcc71cb7b52f58.ctv
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 TheYoungTurks,https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
