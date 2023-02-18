@@ -246,8 +246,19 @@ NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 
 海外,#genre#
 AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-fox news,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-fox news,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+abc 2 Baton Rouge LA (WBRZ-HD),http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+abc News Live 1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+Akaku 53 (Hawaii),https://akaku.vod.castus.tv/live/ch1.m3u8
+WSVN Fox 7 Miami,https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+cnbc,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6482/index.m3u8
+cnbc usa,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.world.us.m3u8
+cnn,https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+cnn,https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
+cnn usa,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+cnn usa,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/876
+cnn usa,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+discovery world,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/12731
+discovery world,http://wpso.com:1936/hls/wzra.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 CBSNews,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBSNewsBaltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
@@ -257,6 +268,8 @@ CheddarNews,https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 TheYoungTurks,https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
