@@ -245,55 +245,78 @@ NewTV潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 海外,#genre#
-AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-cnn usa,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-cnn usa,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
-Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
-classicarts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-Aus Tamil TV,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-ndtv profit,https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-kbs world,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-fuel tv ca,https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-inwild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
-inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-travelxp,https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-travelxp,https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-fishingtv,https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-historyhit,https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
-designnetwork,https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
-stars tv,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-sportsgrid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-fashiontv,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-amgtv,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-fainarmy,https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-waterbear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-ocs max,https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-CBSNews,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-CBSNewsBaltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-CBSNewsDFW,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-CBSNewsLosAngeles,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBS News,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS News Baltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+CBS News DFW,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CBS News LosAngeles,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 CheddarNews,https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-ArianaNews,https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA,https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+CNN USA,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN USA,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+Euronews English,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-TheYoungTurks,https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
+Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+nbc now,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+SkyNews International,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
+3ABN (720p),https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+Access Sacramento Channel 17,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
+Access Sacramento Channel 18,https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
+Adventure Sports TV (360p) [Not 24/7],https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+AMG TV,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+Arts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+Aus Tamil TV,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Better Health TV (480p),https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8
+Better Health TV (480p),https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/playlist.m3u8
+Beverly Hills Television 10 (720p),https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+Beverly Hills Television 35 (720p),https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+Biz TV (576p) [Not 24/7],http://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
+bspoketv (1080p) [Not 24/7],https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+Design Network,https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+Fail Army,https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+Fishing TV,https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+Fuel TV CA,https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Global News,https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
+Global News BC,https://siloh.pluto.tv/lilo/production/GlobalNews/BC/CAN/master.m3u8
+Global News Calgary,https://siloh.pluto.tv/lilo/production/GlobalNews/Calgary/CAN/master.m3u8
+Global News Halifax,https://siloh.pluto.tv/lilo/production/GlobalNews/Halifax/CAN/master.m3u8
+Global News Kingston,https://siloh.pluto.tv/lilo/production/GlobalNews/Kingston/CAN/master.m3u8
+Global News Montreal,https://siloh.pluto.tv/lilo/production/GlobalNews/Montreal/CAN/master.m3u8
+Global News Peterborough,https://siloh.pluto.tv/lilo/production/GlobalNews/Peterborough/CAN/master.m3u8
+Global News Regina,https://siloh.pluto.tv/lilo/production/GlobalNews/Regina/CAN/master.m3u8
+Global News Saskatoon,https://siloh.pluto.tv/lilo/production/GlobalNews/Saskatoon/CAN/master.m3u8
+Global News Vancouver,https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
+Global News Winnipeg,https://siloh.pluto.tv/lilo/production/GlobalNews/Winnipeg/CAN/master.m3u8
+History Hit,https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
+Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+Inwild,https://inwild-samsungindia.amagi.tv/playlist.m3u8
+Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NDTV Profit,https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+OCS Max,https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+Retro TV,https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
+SofyTV,https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+Sports Grid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+Stars TV,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+TheYoungTurks,https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+Timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+TravelXP,https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
+Waterbear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
+Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-SofyTV,https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 日韩,#genre#
 NHKWorldJapan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -306,10 +329,9 @@ Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本购物,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+KBS World,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
-KBS World,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
