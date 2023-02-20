@@ -261,8 +261,8 @@ FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
-nbc now,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 SkyNews International,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
