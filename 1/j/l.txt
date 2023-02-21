@@ -261,8 +261,12 @@ FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+Reuters,https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Russia Today,https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 SkyNews International,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
@@ -271,6 +275,8 @@ Access Sacramento Channel 17,https://reflect-access-sacramento.cablecast.tv/live
 Access Sacramento Channel 18,https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 Adventure Sports TV (360p) [Not 24/7],https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 AMG TV,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+ANTV,https://live.antv.gov.vn/antv/playlist.m3u8
 Arts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 Aus Tamil TV,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -280,6 +286,7 @@ Beverly Hills Television 10 (720p),https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/bev
 Beverly Hills Television 35 (720p),https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
 Biz TV (576p) [Not 24/7],http://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
 bspoketv (1080p) [Not 24/7],https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+Canale Europa,https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 Design Network,https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 Fail Army,https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
@@ -304,7 +311,11 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NDTV Profit,https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 OCS Max,https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+NHK Education,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+Now 80s,https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 Retro TV,https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
+People Are Awesome,https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
+Pet Collective,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 SofyTV,https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 Sports Grid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 Stars TV,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -312,11 +323,14 @@ TheYoungTurks,https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo
 Timeline,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
 TravelXP,https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
+VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 Waterbear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+Yamato Animation,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+QVC TV,https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+QVC Style,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
 
 日韩,#genre#
 NHKWorldJapan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
