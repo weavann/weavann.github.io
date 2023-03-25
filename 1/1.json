@@ -19,7 +19,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
 		{
             "key": "YiSo",
@@ -29,7 +30,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
         {
             "key": "PanSou",
@@ -39,7 +41,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
         {
             "key": "UpYun",
@@ -49,7 +52,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
         {
             "key": "Zhaozy",
@@ -59,7 +63,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
         {
             "key": "push_agent",
@@ -69,8 +74,18 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/alitoken",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a25f65d9985736693258d27a77386ac5"
         },
+		/*{
+			"key":"独播库",
+			"name":"独播库",
+			"type":"4",
+			"api":"https://tang.run.goorm.app/duboku",
+			"searchable":"1",
+			"quickSearch":"1",
+			"filterable":"1"
+		},*/
 		{
             "key": "csp_77",
             "name": "七七(爬虫)",
@@ -634,6 +649,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	   //"spider": "https://weavann.github.io/1/c.jar"
-		"spider": "https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/x.jar"
+	   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/msp.jar"
 }

@@ -17,17 +17,21 @@ ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+东森新闻,http://2023.stream-link.org/live/1793825065
+东森财经,http://2023.stream-link.org/live/249006034
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视,http://2023.stream-link.org/playlist/ttv
+中天亚洲,http://2023.stream-link.org/live/1212532853
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
 澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
 
 海外,#genre#
+America\'s Voice,https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 CBS News,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -37,8 +41,11 @@ CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDE
 CNN USA,https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX Soul,https://foxsoul-vizio.amagi.tv/playlist.m3u8
 Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+Newsmax,https://newsmax-vizio.amagi.tv/playlist.m3u8
+OAN,https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 Reuters,https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -50,16 +57,20 @@ SkyNews International,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 Access Sacramento Channel 17,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 Access Sacramento Channel 18,https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 Adventure Sports TV (360p) [Not 24/7],https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+Ameritrade (1080p) [Not 24/7],https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 AMG TV,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 ANTV,https://live.antv.gov.vn/antv/playlist.m3u8
 Arts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 AXSTVNow,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 Aus Tamil TV,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+AWE Encore (720p),https://aweencore-vizio.amagi.tv/playlist.m3u8
 Better Health TV (480p),https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8
 Biz TV (576p) [Not 24/7],http://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
+Black News Channel (720p),https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 Canale Europa,https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 Design Network,https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+Dove Channel (1080p),https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
 Fail Army,https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 Fishing TV,https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -99,6 +110,7 @@ TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 Waterbear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+Xplore,https://xplore-vizio.amagi.tv/playlist.m3u8
 Yamato Animation,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 QVC TV,https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
