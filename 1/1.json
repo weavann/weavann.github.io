@@ -520,6 +520,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	   //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/msp.jar"
-	   "spider":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"
+	   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/msp.jar"
 }
