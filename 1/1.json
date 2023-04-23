@@ -11,7 +11,7 @@
             "filterable": 1,
             "ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"
 		}, 
-		{
+		/*{
 			"key":"csp_WoGG",
 			"name":"玩偶┃哥哥┃4K",
 			"type":3,
@@ -20,8 +20,9 @@
 			"quickSearch":1,
 			"filterable":1,
 			//"ext":"http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6"
-		},
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+		},*/
 		{
             "key": "csp_Paper",
             "name": "纸条┃4K",
@@ -29,9 +30,11 @@
             "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+			"filterable": 1,
+            "changeable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         },
 		{
             "key": "Upyunso",
@@ -39,10 +42,11 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         },
         {
             "key": "Alips",
@@ -50,10 +54,11 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         },
         {
             "key": "Yisou",
@@ -61,10 +66,11 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         },
 		{
             "key": "Zhaozy",
@@ -72,11 +78,11 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php",
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         },
         {
             "key": "push_agent",
@@ -87,8 +93,8 @@
             "quickSearch": 0,
             "filterable": 0,
             //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php",
-			"ext": "e03d9717cb2f4b7b94dac7fcbcbe03a6",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
         }
     ],
 	
@@ -520,5 +526,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/msp.jar"
+	   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/y.jar"
 }
