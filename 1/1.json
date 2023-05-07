@@ -11,66 +11,56 @@
             "filterable": 1,
             "ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"
 		}, 
-		/*{
-			"key":"csp_WoGG",
-			"name":"玩偶┃哥哥┃4K",
-			"type":3,
-			"api":"csp_WoGG",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			//"ext":"http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
-		},*/
 		{
             "key": "csp_Paper",
-            "name": "纸条┃4K",
+            "name": "纸条",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
 			"filterable": 1,
             "changeable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         },
 		{
-            "key": "Upyunso",
-            "name": "4K┃云搜",
+			"key":"阿里云盘",
+			"name": "阿里云盘",
+			"type": 3,
+			"api": "csp_Dovx",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+		},
+		{
+            "key": "UP云搜",
+            "name": "UP云搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         },
         {
             "key": "Alips",
-            "name": "4K┃盘搜",
+            "name": "盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         },
         {
             "key": "Yisou",
-            "name": "4K┃易搜",
+            "name": "易搜",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         },
 		{
             "key": "Zhaozy",
@@ -80,10 +70,17 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php",
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         },
+		{
+			"key":"网盘搜索",
+			"name": "网盘搜索",
+			"type": 3,
+			"api": "csp_PanSearch",
+			"searchable": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"},
         {
             "key": "push_agent",
             "name": "🛴手机┃推送",
@@ -92,9 +89,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            //"ext": "http://tvmvip110.club/tv/box/alitoken/token.php",
-			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-			"jar": "http://127.0.0.1:9978/file/tvbox/a.jar"
+			"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         }
     ],
 	
@@ -120,6 +115,36 @@
     "url":"Sequence"
     },  
     {"name":"猫影视json③","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+	{
+		"name": "爱奇艺",
+		"type": 0,
+		"url": "https://jx.zhanlangbu.com/?url="
+	},{
+		"name": "腾讯",
+		"type": 0,
+		"url": "https://jx.777jiexi.com/player/?url="
+	},{
+		"name": "芒果",
+		"type": 0,
+		"url": "https://jx.jsonplayer.com/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
+		"name": "优酷",
+		"type": 0,
+		"url": "https://www.ckmov.com/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
+		"name": "西瓜",
+		"type": 0,
+		"url": "https://www.nxflv.com/?url=",
+		"ext": {
+			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
+		} 
+	},
 	{
       "name": "油果",
       "type": 1,
@@ -526,5 +551,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/y.jar"
+	   "spider": "https://weixine.net/YSC.jar"
 }
