@@ -3,7 +3,7 @@
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c548a4b3ea3f603ca651b802c52816a8",
  
-	"lives":[{"name":"live","type":0,"url":"proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZWF2YW5uLmdpdGh1Yi5pby8xL2ovbC50eHQKIA==","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+	"lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/j/l.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
  
 	"sites": [ 
         {   "key": "Bili",
@@ -513,7 +513,7 @@
         "wan.51img1.com",
 		"iqiyi.hbuioo.com",
 		"vip.ffzyad.com",
-		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
 		"mimg.0c1q0l.cn",
         "www.googletagmanager.com",
         "www.google-analytics.com",
