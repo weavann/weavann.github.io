@@ -34,6 +34,19 @@
 			"ext": "http://yt22106.lfytyl.com/api.php/app/",
 			"jar": "https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"
 		},
+		{
+            "key": "csp_Alist1",
+            "name": "❤️罗汉果",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 0,
+			"style":{ "type":"rect", "ratio":1.33 },
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://dpaste.com/7CML6KWYG.txt",
+			"jar":"https://qu.ax/hvUa.js"
+		},
 		{	"key":"YiSo",
 			"name":"😹易搜┃搜索",
 			"type":3,
