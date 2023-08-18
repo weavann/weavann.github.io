@@ -15,24 +15,6 @@
             "filterable": 1,
             "ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"
 		}, 
-		{
-			"key": "Youtube",
-			"name": "❤️Youtube",
-			"type": 3,
-			"style":{ "type":"oval" },
-			"api": "https://qu.ax/Mud.js",
-			"ext": "https://qu.ax/USvO.txt"
-		},
-		{
-			"key":"❤𝐹𝑜𝓃𝑔𝑀𝒾",
-			"name":"小武直转点",
-			"type":3,
-			"api":"https://qu.ax/ntMk.js",
-			"searchable":2,
-			"quickSearch":0,
-			"filterable":0,
-			"ext":https://qu.ax/RKS.json
-		},
 		{	"key":"csp_WoGG",
 			"name":"👽玩偶哥哥┃4K",
 			"type":3,
