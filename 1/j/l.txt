@@ -73,6 +73,7 @@ EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 MMA Junkie,http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
 Sports Grid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 Sport Stars TV,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 Global-2,#genre#

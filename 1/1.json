@@ -1,7 +1,7 @@
 
 {
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c548a4b3ea3f603ca651b802c52816a8",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
  
 	"lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/j/l.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
  
@@ -24,16 +24,43 @@
 			"changeable":0,
 			"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
         },
-		{	"key": "csp_appys_影探",
-			"name": "影探主接口|4K",
-			"type": 3,
-			"api": "csp_AppYsV2",
+		{	"key":"Aid",
+			"name":"🚑急救┃教学",
+			"type":3,
+			"api":"csp_FirstAid",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"style": { "type": "rect", "ratio":3.8}
+		},
+		{	"key": "探探", 
+			"name": "🏵影探┃App", 
+			"type": 3, 
+			"playerType": "1", 
+			"api": "csp_YTVIP", 
+			"searchable": 1, 
+			"quickSearch": 1, 
+			"changeable": 1, 
+			"ext": "vip.lyyytv.cn"
+		},
+		{	"key":"Czsapp",
+			"name":"📔厂长┃直连",
+			"type":3,
+			"api":"csp_Czsapp",
+			"playerType":2,
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1
+		},
+		{	"key": "SNzy",
+			"name": "🚠┃索尼资源 ",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
+			"changeable": 1,
 			"quickSearch": 1,
-			"style":{ "type":"rect", "ratio":1.33 },
 			"filterable": 1,
-			"ext": "http://yt22106.lfytyl.com/api.php/app/",
-			"jar": "https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"
+			"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","海外剧","大陆综艺","国产动漫"]
 		},
 		{
             "key": "csp_Alist1",
@@ -129,6 +156,7 @@
     "url":"Sequence"
     },  
 	{"name":"聚合0","type":3,"url":"Web"},
+	{"name":"神秘的哥哥们","type":1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
 	{"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"全部","type":0,"url":"https://yun.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"来自","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
