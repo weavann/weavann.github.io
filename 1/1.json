@@ -3,7 +3,7 @@
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
  
-	"lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/j/l.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+	"lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/weavann/weavann.github.io/main/1/j/l.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
  
 	"sites": [ 
         {   "key": "Bili",
