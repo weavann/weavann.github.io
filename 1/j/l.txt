@@ -1,20 +1,70 @@
-港澳台,#genre#
+港澳,#genre#
+凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰中文「IPV6」[1920*1080],http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯[1920*1080],http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰中文[1920*1080],http://wouu.net:9977/udp/239.93.0.162:2192
-凤凰中文[0*0],http://j.cxctu.cf:4000/udp/239.93.0.162:2192
-凤凰中文[785*576],http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
-凤凰香港台[960*540],http://nas.jdshipin.com:8801/fhx.php?id=3
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+凤凰中文,https://pull-f5-spe.ixigua.com/yeslivetv.com/e8b571f2-16eb-482c-aa6c-8c8d7708504f/index.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
+凤凰资讯,https://pull-f5-spe.ixigua.com/yeslivetv.com/5b424e21-9171-4725-9a25-d28ba8a1f2ac/index.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰香港,http://nas.jdshipin.com:8801/fhx.php?id=3
+英超一台,http://108.181.20.193:27347/livehttpplay?channel_id=13007
 星河频道高清[1280*720],http://zw9999.cnstream.top/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g
+财经体育资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/beebf2b0-ac46-4513-a87c-892f225c545a/index.m3u8
+无线新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8
+香港国际财经台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
+HOY 资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
+HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8
+J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5f6ff896-c2d9-4790-8bd1-771a672564a9/index.m3u8
+明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7c1f17c3-7605-4317-a585-893f6c5dd3b1/index.m3u8
+Viu6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8
+ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8
 香港卫视[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視文旅台[1280*720],http://107.151.203.111:2209/135/hk.php?id=hk6
 耀才財經[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+Viu6,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經 體育 資訊台,http://bziyunshao.synology.me:8890/bysid/85
+香港國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://bziyunshao.synology.me:8892/bysid/34
 纬来体育[1920*1080],https://cloud.yumixiu768.com/tmp/123.m3u8
 澳亚卫视[720*480],https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-台視[1280*720],http://162.19.247.76:22222/live/taishi/index.m3u8
-華視[1280*720],http://162.19.247.76:22222/live/huashi/index.m3u8
 
+台,#genre#
+TVBS新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
+TVBS新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=tvbs_n
+TVBS台,http://ceshi.huanqiuzhibo.cn/accv.php?id=tvbs
+中天新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ctinews
+中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+寰宇新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=huanyuxinwen_twn
+东森新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ettvnews
+东森财经新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ettvcaijing_twn
+东森超视台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ettvsuper
+年代新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=niandainews_twn
+非凡新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=feifannews_twn
+壹新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=yinews
+公视台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ctv_taiwan
+民视新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ftvnew_taiwan
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ftvhd_taiwan
+台视新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=ttvnews_twn
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://ceshi.huanqiuzhibo.cn/accv.php?id=ttv_taiwan
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+华视,http://ceshi.huanqiuzhibo.cn/accv.php?id=ctshd_twn
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+中视新闻台,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshinews_twn
+中视,http://ceshi.huanqiuzhibo.cn/accv.php?id=zhongshihd_twn
 
 Global-1,#genre#
 ABC News[1280*720],https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -373,9 +423,12 @@ iHOT爱院线「IPV6」[1920*1080],http://[2409:8087:7001:20:1000::95]:6610/0000
 未知电影之旅「IPV6」[1920*816],http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
 欢快集体舞蹈「IPV6」[1920*1080],http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231236/1.m3u8
 享受文学声音「IPV6」[680*896],http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231174/1.m3u8
-CHC高清电影[1920*1080],http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院[1920*1080],http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影[1920*1080],http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC高清电影,https://iptv.luas.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 经典电影[852*480],http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
 爱玩具[1920*1080],https://epg.pw/stream/1d3dfeed7afeba99f8b1bde4f583714c7267c13fe1e13fd8f617faa9a4d0378d.m3u8
 爱谍战[1920*1080],https://epg.pw/stream/43d34a3c161c6ca71441238a519b289512e595d0f85c3eb2387e0d02faf4bc21.m3u8
@@ -499,6 +552,7 @@ CEC国际健康[720*540],http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 隆化影视[1047*576],http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 龍華洋片[1280*720],http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 漫威電影[1920*1080],http://epg.112114.xyz/douyu/6140589
+未知-01,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 斗鱼电视剧HD1[1920x1080][1920*1080],http://epg.112114.xyz/douyu/2838296
 斗鱼电视剧HD2[1920x1080][1920*1080],http://epg.112114.xyz/douyu/7489563
 斗鱼电视剧HD4[1920x1080][1920*1080],http://epg.112114.xyz/douyu/6566658
