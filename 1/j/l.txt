@@ -3,6 +3,8 @@
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
+鳳凰香港[ipv6],https://epg.pw/stream/671e085ee3c69be44c8c7422e0350914beafbcf44514dd28058a18b570c18b9f.m3u8
+鳳凰香港[ipv6],https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 星河频道高清,http://zw9999.cnstream.top/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -11,6 +13,8 @@ Viu6,http://bziyunshao.synology.me:8889/bysid/96
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
 港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+hks,https://epg.pw/stream/f0e840d76846f52b5e1c05c153feeed7956fe2522e5f1f4c2a07042ebc5ad14d.m3u8
+star (720p),https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
 CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
@@ -23,6 +27,18 @@ TVBS新闻,http://194.87.101.118:9501/live.m3u8?c=5
 中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
 公视新闻,http://194.87.101.118:9501/live.m3u8?c=8
 民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
+ELTA影劇HD,https://epg.pw/stream/d2a4b8aabe19df233b0bf58c33f01a5671e4c0cc6869ca3e75bff12a0cdd6ddd.m3u8
+ELTA體育1,https://epg.pw/stream/083d9729e9b2066ceab3b1971b5b7421fa0e760665a1eb99ee669924bd129c5a.m3u8
+ELTA體育2,https://epg.pw/stream/4889561fdf5156ff6cde78e7881f0669d6e11fc544ad127b97d61c82df11a143.m3u8
+ELTA體育2,rtmp://9sv2.mine.nu/sat/md051
+ELTA體育3,https://epg.pw/stream/feb6c8657176040a0c254672c0aea4a004bb1edc10aec12f6e43a1b91d9c4477.m3u8
+Smithsonian Channel,https://epg.pw/stream/99a98a06a5dac64c9956de9ebbd769056942b459862b6008c2c9e0210be791ac.m3u8
+Smithsonian Channel,https://epg.pw/stream/7b153572b82a96ed27bf45804a878593b584ee2fa8862760e30c968f823fbd33.m3u8
+TVBS,https://epg.pw/stream/55b53702b5b1adb04cdd1de3f5837efb2775cb11c105a8e90882e0da57601b5a.m3u8
+discovery channel,https://epg.pw/stream/6660b80a6b508f316b418a3ce81968759db73898ba0a261dce84ca223ec2cdd2.m3u8
+discovery hd world,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
+discovery hd world,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
+
 
 Global-1,#genre#
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -40,6 +56,7 @@ Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Fox Soul[720*404],https://foxsoul-vizio.amagi.tv/playlist.m3u8
 Fox TV [Not 24/7]「EXO」,https://comedy-redbox.amagi.tv/playlist.m3u8
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+global news,https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 NASA NTV-1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
@@ -58,6 +75,8 @@ Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
+cúla4,https://epg.pw/stream/e637cbc4dacfd00b5b64e2c9c53e691c3843d898b535a869b020d8df2aafb4ae.m3u8
+tg4 (1080p),https://epg.pw/stream/ccd2b09a62043d7c0a8b8221ffc1b3e1907ce7bd32fa9497feeb3b4113e2ee0c.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 「QA」半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 编程 Cloudflare TV,https://cloudflare.tv/hls/live.m3u8?checkedby:iptvcat.com
