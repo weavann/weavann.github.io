@@ -24,7 +24,6 @@ TVB娱乐新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extensio
 VB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
 TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
 FAIRCHILD 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
-Universe TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
@@ -33,40 +32,9 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN2,rtmp://9sv2.mine.nu/sat/md041
-ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
-ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
-ELTA體育1,rtmp://9sv2.mine.nu:1935/sat/md031
-ELTA體育2,rtmp://9sv2.mine.nu/sat/md041
-ELTA體育3,rtmp://9sv2.mine.nu:1935/sat/md051
-ELTA體育4,rtmp://9sv2.mine.nu:1935/sat/md041
-ELTA體育4,rtmp://9sv2.mine.nu:1935/sat/md051
-HKC18,rtmp://9sv2.mine.nu/sat/hk021
-MOMO綜合,rtmp://9sv2.mine.nu/sat/tv761
-TVBS歡樂,rtmp://9sv2.mine.nu:1935/sat/tv421
-TVBS新聞,rtmp://9sv2.mine.nu/sat/tv551
-TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
-博斯網球,rtmp://9sv2.mine.nu/sat/md011
-博斯運動I,rtmp://9sv2.mine.nu/sat/md021
-東森財經新聞,rtmp://9sv2.mine.nu/sat/tv571
-東森財經新聞,rtmp://9sv2.mine.nu:1935/sat/tv571
-東森超視,rtmp://9sv2.mine.nu:1935/sat/tv331
-華視,rtmp://9sv2.mine.nu/sat/tv111
-民視,rtmp://9sv2.mine.nu/sat/tv051
-民視,rtmp://9sv2.mine.nu:1935/sat/tv051
-台視,rtmp://9sv2.mine.nu/sat/tv071
-緯來日本,rtmp://9sv2.mine.nu/sat/tv771
-緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
-緯來體育,rtmp://9sv2.mine.nu/sat/tv721
-緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
-緯來育樂,rtmp://9sv2.mine.nu/sat/tv701
-中視,rtmp://9sv2.mine.nu/sat/tv091
-中視,rtmp://9sv2.mine.nu:1935/sat/tv091
 ELTA影劇HD,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
 ELTA體育1,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
 ELTA體育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
-ELTA體育2,rtmp://9sv2.mine.nu/sat/md051
 ELTA體育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
 Astro Supersport 1,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 Astro Supersport 2,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
@@ -150,40 +118,8 @@ BABY TV,http://gwtv.cnv8.tv:8097/Babytv/playlist.m3u8
 TLC旅遊生活,http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8
 BBC lifestyle,http://gwtv.cnv8.tv:8097/bbclifestyle_twn/playlist.m3u8
 大愛,http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8
-衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
-東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-愛爾達體育1,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
-愛爾達體育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
-愛爾達體育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
-衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
-東森電影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
-東森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+Fight Sports,http://210.210.155.35:80/dr9445/h/h05/02.m3u8
 
 
 Global-1,#genre#
