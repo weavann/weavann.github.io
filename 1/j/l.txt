@@ -32,108 +32,32 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-ELTA影劇HD,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
-ELTA體育1,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
-ELTA體育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
-ELTA體育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
 Astro Supersport 1,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 Astro Supersport 2,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 Astro Supersport 3,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
 Astro Supersport 4,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-民視,http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
-台視,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
-中視,http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
-華視,http://gwtv.cnv8.tv:8097/ctshd_tw/playlist.m3u8
-公視,http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8
-中視新聞,http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
-TVBS新聞,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8
-非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
-東森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
-東森財經,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
-年代新聞,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
-中天娛樂,http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
-中天綜合,http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8
-八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8
-八大戲劇,http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8
-八大綜合,http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8
-三立戲劇,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8
-三立綜合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
-東森超視,http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8
-東森綜合,http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8
-愛爾達影劇,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
-JET綜合,http://gwtv.cnv8.tv:8097/jettv_japan/playlist.m3u8
-衛視中文,http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
-龍華洋片,http://gwtv.cnv8.tv:8097/lunghuawestern_twn/playlist.m3u8
-AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
-EYETV戲劇,http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8
-TVBS歡樂,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8
-東森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
-東森電影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
-緯來電影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
-好萊塢電影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
-龍祥時代,http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8
-星衛電影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
-CINEMAX,http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8
-HBO原創鉅獻,http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8
-HBO,http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8
-HBO溫馨家庭,http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8
-美亞電影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
-HBO強檔鉅獻,http://gwtv.cnv8.tv:8097/hbohead_twn/playlist.m3u8
-愛爾達體育1,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
-愛爾達體育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
-愛爾達體育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
-BBC,http://gwtv.cnv8.tv:8097/bbc1_antik/playlist.m3u8
-東森幼幼,http://gwtv.cnv8.tv:8097/yoyo_twn/playlist.m3u8
-靖天卡通,http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8
-亞洲旅遊,http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8
-EYETV旅遊,http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8
-動物星球,http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8
-國家地理野生,http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8
-探索亞洲,http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8
-探索頻道CH,http://gwtv.cnv8.tv:8097/discoverych_twn/playlist.m3u8
-探索頻道HD,http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8
-探索科學,http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8
-探索動力,http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8
-國家地理,http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8
-時尚頻道,http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8
-緯來體育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
-博斯高球1,http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8
-博斯高球2,http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8
-博斯魅力,http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8
-博斯運動2,http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8
-博斯網球,http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8
-ELEVEN1,http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8
-中天新聞,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8
-民視新聞,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8
-中視經典,http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8
-民視台灣,http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8
-民視第一,http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
-中天亞洲,http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8
-三立台灣,http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
-龍華戲劇,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8
-TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
-靖天國際,http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8
-BABY TV,http://gwtv.cnv8.tv:8097/Babytv/playlist.m3u8
-美食星球,http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8
-TLC旅遊生活,http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8
-BBC lifestyle,http://gwtv.cnv8.tv:8097/bbclifestyle_twn/playlist.m3u8
-大愛,http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 Fight Sports,http://210.210.155.35:80/dr9445/h/h05/02.m3u8
 
 
 Global-1,#genre#
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-America's Voice 「EXO」,https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+America's Voice「EXO」,https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+Amanpour,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 BBC Earth,http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165106
 BBC Lifestyle,http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/264747
-Bloomberg TV 「EXO」,https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
-Bloomberg Quicktake 「EXO」,http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
-Bloomberg Quicktake 「EXO」,https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
-Bloomberg TV+2 「EXO」,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+Bloomberg TV「EXO」,https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+Bloomberg Quicktake「EXO」,http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
+Bloomberg Quicktake「EXO」,https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+Bloomberg TV+2「EXO」,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CPAC,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+ctv international,https://mediacp.us:8081/ctvhn/index.m3u8
 DCCouncilChannel,http://video.oct.dc.gov/out/u/15_12.m3u8
+Euronews,https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+Euronews,https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox News Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
@@ -142,6 +66,8 @@ Fox TV[Not 24/7]「EXO」,https://comedy-redbox.amagi.tv/playlist.m3u8
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 NASA NTV-1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 NASA NTV-2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 Newsmax,https://newsmax-samsungus.amagi.tv/playlist.m3u8
@@ -158,6 +84,8 @@ Reuters,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 TRTWorld,https://tv-trtworld.live.trt.com.tr/master.m3u8
+USA Today,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/02.m3u8
 编程 Cloudflare TV,https://cloudflare.tv/hls/live.m3u8?checkedby:iptvcat.com
